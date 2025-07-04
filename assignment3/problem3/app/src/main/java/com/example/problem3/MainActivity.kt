@@ -336,7 +336,7 @@ fun ProfileScreen(modifier: Modifier = Modifier) {
         Spacer(modifier = Modifier.height(24.dp))
 
         ProfileInfoCard("📍", "Address", "213 State St, Harrisburg, PA")
-        ProfileInfoCard("📞", "Phone", "+1 (641) -233-9894")]
+        ProfileInfoCard("📞", "Phone", "+1 (641) -233-9894")
         ProfileInfoCard("🎯", "Loyalty Points", "1,250 points")
         ProfileInfoCard("📦", "Orders", "24 total orders")
         ProfileInfoCard("⭐", "Member Since", "January 2022")
